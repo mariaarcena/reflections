@@ -6,4 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 Well I guess it is like the middle stage or step between the working directory and repository. The difference between working directory and repo is getting clear to me. I am assuming that repo holds what is not to be change for now and the working directory holds what you are working on currently. And when we are doing or is on the statging areaa, we are staging or getting ready to decide what we want to put in the repo or in the terms of this course, "commit to the repo". Is that correct? I thinks so.
 
- 
+ How can you use the staging area to make sure you have one commit per logical change?
+
+ Well you can check or compare what you have on the staging area to your recent commit or working directory. This would be good practice because sometimes you might not want to commit things that are the same or even mistakes.
