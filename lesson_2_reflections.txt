@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+AH! I did not know that "init" stood for initialize. Makes much sense now. I guess when you initialize a repo, your directory is not just a refular directory but a directory that will now be tracked with changes using git. VERSION CONTROL. META DATA! If you want to sound cool.
