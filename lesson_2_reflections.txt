@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 AH! I did not know that "init" stood for initialize. Makes much sense now. I guess when you initialize a repo, your directory is not just a refular directory but a directory that will now be tracked with changes using git. VERSION CONTROL. META DATA! If you want to sound cool.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Well I guess it is like the middle stage or step between the working directory and repository. The difference between working directory and repo is getting clear to me. I am assuming that repo holds what is not to be change for now and the working directory holds what you are working on currently. And when we are doing or is on the statging areaa, we are staging or getting ready to decide what we want to put in the repo or in the terms of this course, "commit to the repo". Is that correct? I thinks so.
+
+ 
