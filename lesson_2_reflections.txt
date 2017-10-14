@@ -13,3 +13,7 @@ Well I guess it is like the middle stage or step between the working directory a
  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
  Like they had explained, branches would be very helpful when you want to try other things with your code. Like adding a whole new thing that you are not sure it might work but just want to do some experiment with it. Or make a version of your code which is a game in a different language. If we change the whole code without having branches it would be time consuming and tedious to just copy a whole directory and work on that. Branches help with those problems.
+
+ How do the diagrams help you visualize the branch structure?
+
+ It helps to see where things are seperated. It also helps seeing how branches of what your working don't interfere with each other. It is also good to picture how commits are not mumble jumbled together. Because after commits here and commits there it gets hard to organize and picture it. But since we now see see through diagrams, it is nice to have an understanding how it works.
