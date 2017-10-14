@@ -9,3 +9,7 @@ Well I guess it is like the middle stage or step between the working directory a
  How can you use the staging area to make sure you have one commit per logical change?
 
  Well you can check or compare what you have on the staging area to your recent commit or working directory. This would be good practice because sometimes you might not want to commit things that are the same or even mistakes.
+
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+ Like they had explained, branches would be very helpful when you want to try other things with your code. Like adding a whole new thing that you are not sure it might work but just want to do some experiment with it. Or make a version of your code which is a game in a different language. If we change the whole code without having branches it would be time consuming and tedious to just copy a whole directory and work on that. Branches help with those problems.
