@@ -21,3 +21,7 @@ Well I guess it is like the middle stage or step between the working directory a
  What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
  The result is onr branch but with changes from both brances. Again it is nice to see it on a diagram. We can see the branches that are not the master branch and we can see what is the master branch. Good visual!
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ Oh wait, there automatic merging? I'm confused. Oh okay, so like merging like not Git. Okay. So Git's automatic merging seems very helpful. It always warns you if there is conflict. I am scared to merge now because I did a mistake on merging master and easy-mode. I was suppose to checkout easy-mode branch first then do the "git merge master easy-mode" command. I guess if done manually, it would be time consuming on a big project.
