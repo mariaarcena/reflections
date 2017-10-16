@@ -17,3 +17,7 @@ Well I guess it is like the middle stage or step between the working directory a
  How do the diagrams help you visualize the branch structure?
 
  It helps to see where things are seperated. It also helps seeing how branches of what your working don't interfere with each other. It is also good to picture how commits are not mumble jumbled together. Because after commits here and commits there it gets hard to organize and picture it. But since we now see see through diagrams, it is nice to have an understanding how it works.
+
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+ The result is onr branch but with changes from both brances. Again it is nice to see it on a diagram. We can see the branches that are not the master branch and we can see what is the master branch. Good visual!
