@@ -1,1 +1,7 @@
 When would you want to create a remote repository than keeping all your work local?
+
+Well, I'm assuming that if you have a remote repository then it is always there...? So if you lose your code you have a back up. Or am I getting the wrong idea? Another reason why it is good to have a remote repository is so if someone wanted to see your projects along with your commits, they can just get it from your remote. Or even you have a group project, it is nice to have one area to get the official/working project from.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+I guess it is better to pull changes manually because sometimes you might have commits that are not yet pushed and it might have some conflicts. I will add more to this answer later.
